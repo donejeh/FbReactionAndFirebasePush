@@ -1,0 +1,23 @@
+.messageBody{padding: 10px; border-bottom: 1px solid #dedede; font-family: arial}
+.messageBody b{display: block;margin: 5px 0px}
+.messageBody a{color: #365D98; text-decoration: none;}
+.messageImg{width: 60px; height: 60px; border-radius: 5px; float: left; margin:0px 10px 10px 0px;}
+.messageFooter{clear: both;padding: 5px;font-size: 14px}
+.messageFooter a{line-height: 20px;}
+.likeIconDefault{    width: 30px;
+    float: right;
+    margin-right: 5px;
+    background: url(../img/like.png);
+    height: 30px;
+    background-size: 100%;}
+.reaction{color: #666666 !important;}
+
+.data_status{
+	float: left;
+	height: 30px;
+}
+
+.countClass{
+	color: black;
+	    font-size: 15px;
+}
