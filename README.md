@@ -3,8 +3,7 @@ A simple demo application of Web Push Notifications and facebook status Reaction
 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5RXDnHX1Rss" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/5RXDnHX1Rss
 
 
 
